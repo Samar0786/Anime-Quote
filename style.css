@@ -1,0 +1,20 @@
+body{
+    background: black;
+    color: whitesmoke;
+}
+h1{
+    text-transform: uppercase;
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+#image{
+    width: 100%;
+    border: 5px solid whitesmoke;
+}
